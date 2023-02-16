@@ -1,1 +1,9 @@
-
+.App{
+    width: 100vw;
+    height: 94vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    direction: rtl;
+    background-image: linear-gradient((142,197,252),(224,195,252));
+  }
